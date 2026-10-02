@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://a-admi.github.io/evidencepack-ai/sitemap.xml
